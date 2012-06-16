@@ -1,0 +1,3 @@
+This project is just a very simple and easy to understand DatePickerDialog that uses fragments instead of Activity's show() method to pop up a Dialog. Since Google has deprecated it, you are forced to use it with DialogFragment and FragmentManager.
+
+Goal of this example project is to provide a very easy implementation of this. Most tutorials online (actually the 2 that currently exist) are bloated with other useless information that are not needed. Made it very hard for me to understand it, so I just made one myself to share with others incase they find the tutorials I found annoyingly bloated as well.
